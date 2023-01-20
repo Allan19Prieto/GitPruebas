@@ -1,5 +1,5 @@
-#Introducción a Git
-#¿Qué es Git?
+<h1>Introducción a Git</h1>
+<h2>¿Qué es Git?</h2>
 Git es un sistema de control de versiones distribuido que te permite rastrear y administrar cambios en tus proyectos de software. Con Git puedes trabajar de manera descentralizada, es decir, tienes una copia completa del repositorio en tu equipo local, lo que te permite trabajar de manera independiente y colaborar con otros desarrolladores de manera eficiente.
 
 Un repositorio Git es la estructura central de un proyecto controlado por Git. Contiene todos los archivos y carpetas del proyecto, así como un registro de todos los cambios realizados en esos archivos. Cada vez que se hace un cambio en el proyecto, se crea un "commit", que es una instantánea del estado actual del repositorio. Los commits se relacionan entre sí en una estructura de árbol, lo que permite ver la historia completa de cambios en el proyecto.
